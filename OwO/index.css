@@ -1,0 +1,36 @@
+body{
+    background-color: #d9d9d9;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+}
+.img{
+    width: 800px;
+    height: auto;
+}
+
+p {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    margin-right: 15%;
+}
+
+header{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.img2{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+footer{
+    background-color: #333;
+	height: 50px;
+}
